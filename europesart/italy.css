@@ -1,0 +1,22 @@
+.box {
+    width: 92%;
+    height: 760px;
+    background-color: rgb(101, 112, 170);
+    margin: 50px 50px;
+}
+img {
+    padding: 20px 50px;
+}
+.lbox {
+    background-color: rgb(198, 199, 235);
+    width: 21%;
+    height: 600px;
+    float: right;
+    margin: 6% 7%;
+}
+p {
+    font-size: 25px;
+    color: rgb(7, 7, 34);
+    padding: 2% 2%;
+    
+}
